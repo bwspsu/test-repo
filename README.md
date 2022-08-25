@@ -87,7 +87,7 @@ This section introduces Penn State team members. Please click to see details.
 
  
 
- Maddipatla Satya Prasad   |  Wushuang Bai             | Liming Gao                | Xinyu Cao
+ **Maddipatla Satya Prasad**   |  **Wushuang Bai**             | **Liming Gao**                | Xinyu Cao
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src ="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Treasurer_Phakphum_Artkaew.jpeg" height = "95%" >|<img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Bodenschatz%20George%20Nathan.jpg" height = "95%"> | <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Bhavya%20Jain.jpeg" height = "95%"> | <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Justin%20Kerr.jpeg" height = "95%">
 
