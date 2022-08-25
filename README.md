@@ -90,9 +90,9 @@ This section introduces Penn State team members. Please click to see details.
 
  Maddipatla Satya Prasad   |  Wushuang Bai             | Liming Gao                | Xinyu Cao
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src ="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/SatyaPrasadMaddipatla.jpg?raw=true" height = "200" width= "200">  |<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/WushuangBai_photo.jpg?raw=true" height = "200" width= "200"> | <img src="https://user-images.githubusercontent.com/66030812/148875266-8b5677b8-01df-46fd-8fbd-e02e0ea36858.jpg?raw=true" height = "200" width= "200"> |  <img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/XinyuCao.jpg?raw=true" height = "200" width= "200">
+<img src ="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/SatyaPrasadMaddipatla.jpg?raw=true"  width= "">  |<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/WushuangBai_photo.jpg?raw=true" height = "200" width= "200"> | <img src="https://user-images.githubusercontent.com/66030812/148875266-8b5677b8-01df-46fd-8fbd-e02e0ea36858.jpg?raw=true" height = "200" width= "200"> |  <img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/XinyuCao.jpg?raw=true" height = "200" width= "200">
 Artkaew, Phakphum   |  Bodenschatz George Nathan | Bhavya Jain             | Justin Kerr
-<img src ="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Treasurer_Phakphum_Artkaew.jpeg" height = "200" width= "200">  |<img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Bodenschatz%20George%20Nathan.jpg" height = "200" width= "200"> | <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Bhavya%20Jain.jpeg" height = "200" width= "200"> |  <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Justin%20Kerr.jpeg" height = "200" width= "200">|  <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Putz%20Marcus%20Jun%20Wei%20Ng.jpg" height = "400" width= "200">
+<img src ="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Treasurer_Phakphum_Artkaew.jpeg" height = "200" width= "200">  |<img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Bodenschatz%20George%20Nathan.jpg" height = "200" width= "200"> | <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Bhavya%20Jain.jpeg" width= "25%"> |  <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Justin%20Kerr.jpeg" >|  <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Putz%20Marcus%20Jun%20Wei%20Ng.jpg" height = "400" width= "200">
 Putz Marcus Jun Wei Ng | 
 |  <img src="https://github.com/ivsg-psu/Projects_PennDOTADSConstructionZones/blob/main/Documents/Images/Putz%20Marcus%20Jun%20Wei%20Ng.jpg" height = "200" width= "200">
 </details>
@@ -127,8 +127,10 @@ Satya
      </div>
 </div>
 <p float="left">
-  <img src="https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg" width="100" />
-  <img src="https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg" width="100" /> 
+  <img src="https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg" width="25%" />
+  <br>
+  fdafda
+  <img src="https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg" width="25%" /> 
   <img src="https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg" width="100" />
 </p>
 
